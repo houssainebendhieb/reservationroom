@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217369637030",
+    "project_id": "useradd-ef05d",
+    "storage_bucket": "useradd-ef05d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217369637030:android:2441c5483af9114e428467",
+        "android_client_info": {
+          "package_name": "com.example.reservationroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6tEWg3_BZtlvOn1VGbU8PMusPRUzhFDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
